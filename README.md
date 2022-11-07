@@ -1,0 +1,2 @@
+# smita
+my first repository
